@@ -10,7 +10,7 @@ With a photo of the skin that is sent from the application, SkinCheck returns a 
 
 # Technologies Used
 
-- Flask
+- Flask Framework
 - Python
 - Heroku
 - Image Dataset
