@@ -18,4 +18,9 @@ With a photo of the skin that is sent from the application, SkinCheck returns a 
 
 ## Video
 
+https://www.linkedin.com/feed/update/urn:li:activity:7269647737086697472/
+
+Or
+
 https://drive.google.com/file/d/1SrCO1KCvFLuObMFNHYKPpIyvnzLztWn7/view
+
